@@ -1,5 +1,6 @@
 # Email-Application
-Email Application Created Using Java.
+Email application created using Java. The application will let the user be able to create an employee user object.
+The created object will have its constructor generate employee information. The employee information generated will show the employee's full name, email, password, and how much mailbox capacity the employee has. 
 
 # What I Learned
 * How to implement core object-oriented programming techniques
