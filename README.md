@@ -7,4 +7,5 @@ Email Application Created Using Java.
 * How to design a real-world project with decision making conditions with exception handling
 
 # View Project
+![View Java Project](https://media.giphy.com/media/RGvkEA2tcRmS5fDiBA/giphy.gif)
 
