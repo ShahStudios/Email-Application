@@ -103,7 +103,7 @@ public class Email {
 				"Full name: " + firstName + " " + lastName +
 				"\r\n" + "Company email: " + email + "\r\n" +
 				"Email password: " + password + "\r\n" +
-				"Email maxbox capacity: " + mailboxCapacity + "mb" + "\r\n" +
+				"Email mailbox capacity: " + mailboxCapacity + "mb" + "\r\n" +
 				"-------------------------------------------------" + "\r\n" + "\r\n";
 	}
 	
